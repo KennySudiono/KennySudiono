@@ -1,0 +1,17 @@
+# Hi, I'm Yohanes Kenny Putra Sudiono 👋
+
+Information Systems student at Universitas Multimedia Nusantara focused on data analytics, machine learning, and business intelligence. I turn messy business data into models and dashboards that support real decisions.
+
+**Tools I work with:** Python (pandas, scikit-learn, XGBoost, LightGBM, CatBoost) · SQL (PostgreSQL) · Tableau · Power BI · SAS Viya · Pentaho Data Integration · Altair Monarch · Altair AI Studio
+
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Earthquake Damage Prediction](https://github.com/KennySudiono/earthquake-damage-prediction) | Compares XGBoost, LightGBM, and CatBoost with Optuna tuning and StratifiedKFold validation | Python, XGBoost, LightGBM, CatBoost, Optuna |
+| [Mental Health & Technology Usage](https://github.com/KennySudiono/mental-health-tech-ml) | Statistical tests and SVM classification on technology use, sleep, and mental health data | Python, SciPy, scikit-learn |
+| [KennyMart Data Warehouse](https://github.com/KennySudiono/kennymart-data-warehouse-pentaho) | ETL pipeline and dimension tables for a sample e-commerce data warehouse | Pentaho Data Integration |
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/yohanes-kenny/
+- Email: kennysudiono99@gmail.com
